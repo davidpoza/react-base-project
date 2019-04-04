@@ -1,0 +1,3 @@
+# react-base-project
+
+Base for webpack react project, with different loaders: css, scss, file...
